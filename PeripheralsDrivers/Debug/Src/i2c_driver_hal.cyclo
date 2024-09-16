@@ -1,0 +1,16 @@
+../Src/i2c_driver_hal.c:34:6:i2c_config	1
+../Src/i2c_driver_hal.c:58:13:i2c_enable_clock_peripheral	4
+../Src/i2c_driver_hal.c:79:13:i2c_config_frequency	1
+../Src/i2c_driver_hal.c:88:13:i2c_config_mode	2
+../Src/i2c_driver_hal.c:121:13:i2c_enable_peripheral	1
+../Src/i2c_driver_hal.c:126:6:i2c_stopTransaction	1
+../Src/i2c_driver_hal.c:131:6:i2c_startTransaction	3
+../Src/i2c_driver_hal.c:151:6:i2c_reStartTransaction	2
+../Src/i2c_driver_hal.c:168:6:i2c_sendNoAck	1
+../Src/i2c_driver_hal.c:174:6:i2c_sendAck	1
+../Src/i2c_driver_hal.c:180:6:i2c_sendSlaveAddressRW	2
+../Src/i2c_driver_hal.c:207:6:i2c_sendMemoryAddress	2
+../Src/i2c_driver_hal.c:218:6:i2c_sendDataByte	2
+../Src/i2c_driver_hal.c:228:9:i2c_readDataByte	2
+../Src/i2c_driver_hal.c:239:9:i2c_readSingleRegister	1
+../Src/i2c_driver_hal.c:271:6:i2c_writeSingleRegister	1

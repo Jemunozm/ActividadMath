@@ -1,0 +1,11 @@
+../Src/gpio_driver_hal.c:28:6:gpio_Config	1
+../Src/gpio_driver_hal.c:58:6:gpio_enable_clock_peripheral	7
+../Src/gpio_driver_hal.c:103:6:gpio_config_mode	1
+../Src/gpio_driver_hal.c:127:6:gpio_config_output_type	1
+../Src/gpio_driver_hal.c:151:6:gpio_config_output_speed	1
+../Src/gpio_driver_hal.c:171:6:gpio_config_pullup_pulldown	1
+../Src/gpio_driver_hal.c:190:6:gpio_config_alternate_function	3
+../Src/gpio_driver_hal.c:225:6:gpio_WritePin	2
+../Src/gpio_driver_hal.c:242:6:gpio_WritePinFast	1
+../Src/gpio_driver_hal.c:250:9:gpio_ReadPin	1
+../Src/gpio_driver_hal.c:262:6:gpio_TooglePin	1

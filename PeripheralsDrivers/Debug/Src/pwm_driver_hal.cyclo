@@ -1,0 +1,12 @@
+../Src/pwm_driver_hal.c:37:6:pwm_Config	1
+../Src/pwm_driver_hal.c:67:6:pwm_enable_clock_peripheral	5
+../Src/pwm_driver_hal.c:86:6:pwm_set_mode	1
+../Src/pwm_driver_hal.c:90:6:pwm_set_compare_mode	5
+../Src/pwm_driver_hal.c:211:6:startPwmSignal	1
+../Src/pwm_driver_hal.c:227:6:stopPwmSignal	1
+../Src/pwm_driver_hal.c:235:6:enableOutput	5
+../Src/pwm_driver_hal.c:270:6:disableOutput	5
+../Src/pwm_driver_hal.c:308:6:setFrequency	1
+../Src/pwm_driver_hal.c:321:6:updateFrequency	1
+../Src/pwm_driver_hal.c:332:6:setDuttyCycle	5
+../Src/pwm_driver_hal.c:366:6:updateDuttyCycle	5

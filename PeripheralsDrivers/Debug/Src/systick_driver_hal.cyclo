@@ -1,0 +1,12 @@
+/home/imjeviz/STM32CubeIDE/workspace_1.10.1/CMSIS-repo/STM32Cube_FW_F4_V1.27.0/Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+/home/imjeviz/STM32CubeIDE/workspace_1.10.1/CMSIS-repo/STM32Cube_FW_F4_V1.27.0/Drivers/CMSIS/Include/core_cm4.h:1724:22:__NVIC_DisableIRQ	2
+../Src/systick_driver_hal.c:26:6:systick_Config	1
+../Src/systick_driver_hal.c:49:13:systick_reload_value	1
+../Src/systick_driver_hal.c:56:13:systick_clear_value	1
+../Src/systick_driver_hal.c:63:13:systick_config_clock	1
+../Src/systick_driver_hal.c:75:13:systick_config_interrupt	2
+../Src/systick_driver_hal.c:100:6:systick_SetState	3
+../Src/systick_driver_hal.c:122:10:systick_GetTicks	1
+../Src/systick_driver_hal.c:126:6:systick_Delay_ms	2
+../Src/systick_driver_hal.c:145:6:SysTick_Handler	2
+../Src/systick_driver_hal.c:161:28:systick_Callback	1

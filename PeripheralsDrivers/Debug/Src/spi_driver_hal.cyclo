@@ -1,0 +1,12 @@
+../Src/spi_driver_hal.c:20:6:spi_Config	1
+../Src/spi_driver_hal.c:50:13:spi_enable_clock_peripheral	6
+../Src/spi_driver_hal.c:74:13:spi_config_baudrate	1
+../Src/spi_driver_hal.c:79:13:spi_config_mode	5
+../Src/spi_driver_hal.c:109:13:spi_config_duplex	3
+../Src/spi_driver_hal.c:127:13:spi_config_bitorder	3
+../Src/spi_driver_hal.c:144:13:spi_config_datasize	3
+../Src/spi_driver_hal.c:160:6:spi_transmit	6
+../Src/spi_driver_hal.c:195:6:spi_receive	4
+../Src/spi_driver_hal.c:218:6:spi_config_interrupt	1
+../Src/spi_driver_hal.c:223:6:spi_selectSlave	1
+../Src/spi_driver_hal.c:227:6:spi_unSelectSlave	1
